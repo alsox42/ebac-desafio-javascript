@@ -1,0 +1,23 @@
+{
+  "name": "ebac-desafio-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculando_mdc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alsox42/ebac-desafio-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alsox42/ebac-desafio-javascript/issues"
+  },
+  "homepage": "https://github.com/alsox42/ebac-desafio-javascript#readme",
+  "dependencies": {
+    "jest": "25.0"
+  }
+}
