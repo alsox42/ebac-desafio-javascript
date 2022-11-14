@@ -27,4 +27,4 @@ function menor_antes(a, b) {
     return [a, b]
 }
 
-console.log(MDC(90, 36))
+module.exports = { MDC }

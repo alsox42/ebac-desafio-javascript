@@ -6,5 +6,4 @@ function indice_do_maior_e_menor(array) {
 
 }
 
-numeros = [10, 22, 5, 4, 5000, 31,1]
-console.log(indice_do_maior_e_menor(numeros))
+module.exports = { indice_do_maior_e_menor }
